@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="120" alt="BillBuster Logo" />
+  <img src="screenshots/image.png" width="120" alt="BillBuster Logo" />
 </p>
 
 <h1 align="center">BillBuster</h1>
@@ -30,16 +30,16 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="200"/>
-  <img src="screenshots/2.png" width="200"/>
-  <img src="screenshots/3.png" width="200"/>
-  <img src="screenshots/4.png" width="200"/>
-  <img src="screenshots/5.png" width="200"/>
-  <img src="screenshots/6.png" width="200"/>
-  <img src="screenshots/7.png" width="200"/>
-  <img src="screenshots/8.png" width="200"/>
-  <img src="screenshots/9.png" width="200"/>
-  <img src="screenshots/10.png" width="200"/>
+  <img src="screenshots/1.PNG" width="200"/>
+  <img src="screenshots/2.PNG" width="200"/>
+  <img src="screenshots/3.PNG" width="200"/>
+  <img src="screenshots/4.PNG" width="200"/>
+  <img src="screenshots/5.PNG" width="200"/>
+  <img src="screenshots/6.PNG" width="200"/>
+  <img src="screenshots/7.PNG" width="200"/>
+  <img src="screenshots/8.PNG" width="200"/>
+  <img src="screenshots/9.PNG" width="200"/>
+  <img src="screenshots/10.PNG" width="200"/>
 </p>---
 
 ## 🚀 Technologies Used
