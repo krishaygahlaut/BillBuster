@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>BillBuster needs access to your camera to scan receipts.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To attach receipt images (future feature)</string>
+	<key>NSContactsUsageDescription</key>
+	<string>We use your contacts to pick names for expense sharing</string>
+</dict>
+</plist>
